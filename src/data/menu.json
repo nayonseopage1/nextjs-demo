@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "Home",
+        "link":"/"
+       
+      },
+      {
+        "id": 2,
+        "title": "About Us",
+        "link":"#contept"
+      },
+      {
+        "id": 3,
+        "title": "Services",
+        "link":"#"
+      },
+      {
+        "id": 4,
+        "title": "WALLET",
+        "link":"#"
+       
+      },
+      {
+        "id": 5,
+        "title": "ETSGAMEFI",
+        "link":"#"
+      },
+      {
+        "id": 6,
+        "title": "ROADMAP",
+        "link":"#"
+      },
+      {
+        "id": 7,
+        "title": "CONCEPT",
+        "link":"#"
+      }
+]
+
+
