@@ -1,4 +1,3 @@
-
 import Banner from '../src/component/Banner';
 import Concept from '../src/component/Concept';
 import Layout from '../src/component/Layout';
